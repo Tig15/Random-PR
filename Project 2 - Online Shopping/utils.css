@@ -1,0 +1,33 @@
+.flex-all-center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.btn{
+    background-color: var(--main-background-color);
+    padding: 10px 20px;
+    border: 13px solid orchid;
+    border-radius: 7px;
+    cursor: pointer;
+}
+
+.btn:hover{
+    color: firebrick;
+}
+
+my-1{
+    margin: 7px 0;
+}
+
+my-2{
+    margin: 34px 0;
+}
+
+.text-center{
+    text-align: center;
+}
+
+.text-center:hover{
+    cursor: pointer;
+}
